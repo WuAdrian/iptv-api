@@ -15,17 +15,10 @@ CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV-16,http://183.191.144.167:9003/hls/17/index.m3u8
+CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
-CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
-CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
-CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 
 💰央视付费频道,#genre#
-央视台球,http://183.11.239.36:808/hls/73/index.m3u8
-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
@@ -38,7 +31,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 重庆卫视,http://tvpull.careryun.com/tv/cn_cqws.m3u8
 东方卫视,http://tvpull.careryun.com/tv/dfws.m3u8
 东南卫视,http://bg5aqv.top:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
-甘肃卫视,rtmp://livein.gstv.com.cn/49048r/y3nga4.flv
+甘肃卫视,http://tvpull.careryun.com/tv/cn_gsws.m3u8
 广西卫视,http://tvpull.careryun.com/tv/cn_gxws.m3u8
 贵州卫视,http://tvpull.careryun.com/tv/cn_gzws.m3u8
 海南卫视,http://tvpull.careryun.com/tv/hainws.m3u8
@@ -48,7 +41,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 辽宁卫视,http://bg5aqv.top:35455/itv/1000000005000265022.m3u8?cdn=ystenlive
-内蒙古卫视,http://61.156.228.12:8154/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8
 宁夏卫视,http://tvpull.careryun.com/tv/cn_nxws.m3u8
 青海卫视,http://tvpull.careryun.com/tv/qhws.m3u8
 山东卫视,http://tvpull.careryun.com/tv/cn_sdws.m3u8
@@ -56,24 +49,15 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 四川卫视,http://tvpull.careryun.com/tv/cn_ahws.m3u8
 深圳卫视,http://tvpull.careryun.com/tv/cn_szws.m3u8
-三沙卫视,http://139.129.231.228:50060/rtp/239.21.2.9:5002
+三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://tvpull.careryun.com/tv/cn_tjws.m3u8
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 新疆卫视,http://tvpull.careryun.com/tv/cn_xjws.m3u8
-云南卫视,http://110.53.52.63:8888/newlive/live/hls/26/live.m3u8
+云南卫视,https://hwapi.yntv.net/62hdvf/41hse3.m3u8
 
 ☘️山东频道,#genre#
-山东少儿,http://221.2.148.205:8154/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-山东新闻,http://221.2.148.205:8154/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-山东国际,http://139.129.231.228:50060/rtp/239.21.1.61:5002
+山东国际,http://221.0.78.198:1681/hls/10228/index.m3u8
 山东教育,http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
-山东居家购物,http://139.129.231.228:50060/rtp/239.21.1.112:5002
-山东农科,http://139.129.231.228:50060/rtp/239.21.1.183:5002
-山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-山东生活,http://221.2.148.205:8154/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-山东文旅,http://221.2.148.205:8154/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-山东综艺,http://221.2.148.205:8154/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
@@ -81,27 +65,23 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 凤凰卫视,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎬电影频道,#genre#
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
+CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 CHC动作电影,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 黑莓电影,http://www.terrykang.xyz:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
-IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎵音乐频道,#genre#
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-音乐调频广播,http://120.55.49.231:3095/rtp/233.50.201.82:5140
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/23865142
