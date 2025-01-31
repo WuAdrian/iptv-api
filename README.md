@@ -72,11 +72,11 @@
 - 接口源：
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/main/output/result.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/result.m3u
 ```
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/main/output/result.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/result.txt
 ```
 
 🙏 感谢由[ghproxy.cc](https://ghproxy.cc)提供的代理加速服务
@@ -84,23 +84,23 @@ https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/main/outp
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@main/output/result.m3u
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/result.m3u
 ```
 
 ```bash
-https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@main/output/result.txt
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/main/source.json
+https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/source.json
 ```
 
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@main/source.json
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/source.json
 ```
 
 ## 配置
