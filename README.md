@@ -72,11 +72,11 @@
 - 接口源：
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/result.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/user_result.m3u
 ```
 
 ```bash
-https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/result.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/user_result.txt
 ```
 
 🙏 感谢由[ghproxy.cc](https://ghproxy.cc)提供的代理加速服务
@@ -84,11 +84,11 @@ https://ghproxy.cc/https://raw.githubusercontent.com/WuAdrian/iptv-api/master/ou
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/result.m3u
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/user_result.m3u
 ```
 
 ```bash
-https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/result.txt
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/user_result.txt
 ```
 
 - 数据源：
