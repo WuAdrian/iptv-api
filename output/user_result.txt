@@ -1,7 +1,7 @@
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-2,http://goo.bkpcp.top/mg/cctv2
-CCTV-3,http://goo.bkpcp.top/mg/cctv3
+CCTV-3,http://183.255.10.90:6610/200000001898/460000089800010212/1.m3u8?IASHttpSessionId=OTT
 CCTV-4,http://goo.bkpcp.top/mg/cctv4
 CCTV-5,http://goo.bkpcp.top/mg/cctv5
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
@@ -15,13 +15,16 @@ CCTV-12,http://goo.bkpcp.top/mg/cctv12
 CCTV-13,http://goo.bkpcp.top/mg/cctv13
 CCTV-14,http://goo.bkpcp.top/mg/cctv14
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
-CCTV-16,http://58.17.48.228:808/hls/25/index.m3u8
+CCTV-16,http://219.135.180.210:18888/hls/31/index.m3u8
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
 CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
 CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 
 💰央视付费频道,#genre#
+央视台球,http://183.11.239.36:808/hls/73/index.m3u8
+风云足球,http://183.11.239.36:808/hls/133/index.m3u8
+世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
@@ -52,7 +55,7 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
-三沙卫视,http://dsm.huarunguoji.top:35455/itv/5000000011000288016.m3u8?cdn=bestzb
+三沙卫视,http://jf.jxx2023.work:40446/tsfile/live/1035_1.m3u8
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635
@@ -78,12 +81,13 @@ CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 Viutv,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森超视,rtmp://f13h.mine.nu/sat/tv331
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 
 🎬电影频道,#genre#
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
@@ -92,12 +96,12 @@ CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎵音乐频道,#genre#
 CCTV-15,http://goo.bkpcp.top/mg/cctv15
 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-音乐调频广播,http://120.55.49.231:3095/rtp/233.50.201.82:5140
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/yy/1354930909
