@@ -84,11 +84,11 @@ https://raw.githubusercontent.com/WuAdrian/iptv-api/master/output/user_result.tx
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/user_result.m3u
 ```
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://cdn.jsdelivr.net/gh/WuAdrian/iptv-api@master/output/user_result.txt
 ```
 
 - 数据源：
