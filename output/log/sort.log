@@ -266,7 +266,7 @@ Name: CCTV-8, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800
 Name: CCTV-8, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-8, URL: https://cc06.tv12.xyz/9.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://183.215.134.239:19901/tsfile/live/0008_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 8260 ms, Speed: 0.37 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://183.215.134.239:19901/tsfile/live/0008_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 7112 ms, Speed: 0.50 M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-9, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -331,6 +331,7 @@ Name: CCTV-10, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/0000000100000006
 Name: CCTV-10, URL: http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?key=tvbox6_com, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225627/2/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-10, URL: https://cc06.tv12.xyz/11.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://110.177.144.22:9003/hls/11/index.m3u8, IPv_Type: ipv4, Date: None, Delay: 10150 ms, Speed: 0.06 M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-11, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -421,8 +422,8 @@ Name: CCTV-13, URL: http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006
 Name: CCTV-13, URL: http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-13, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-13, URL: https://cc06.tv12.xyz/14.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, IPv_Type: ipv4, Date: None, Delay: 2275 ms, Speed: 1.25 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Date: None, Delay: 2551 ms, Speed: 0.85 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: https://event.pull.hebtv.com/jishi/cp1.m3u8, IPv_Type: ipv4, Date: None, Delay: 2038 ms, Speed: 1.38 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv4, Date: None, Delay: 2463 ms, Speed: 0.99 M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226445/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -455,8 +456,8 @@ Name: CCTV-14, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/0000000100000006
 Name: CCTV-14, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-14, URL: https://cc06.tv12.xyz/15.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: http://183.237.95.108:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: 10684 ms, Speed: 0.28 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv4, Date: None, Delay: 2397 ms, Speed: 1.25 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: http://183.237.95.108:9901/tsfile/live/1096_1.m3u8?key=txiptv&playlive=0&authid=0, IPv_Type: ipv4, Date: None, Delay: 10961 ms, Speed: 0.41 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv4, Date: None, Delay: 2367 ms, Speed: 1.43 M/s, Resolution: 1920x1080
 Name: CCTV-15, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-15, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CCTV-15, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -587,7 +588,7 @@ Name: 广东卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/Umai
 Name: 广东卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东卫视, URL: http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000341/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广东卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广东卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10027 ms, Speed: 0.48 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10373 ms, Speed: 0.53 M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -658,8 +659,8 @@ Name: 浙江卫视, URL: http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000
 Name: 浙江卫视, URL: http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000248/index.m3u8?key=tvbox6_com, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUclW6AUI%2FSIO%2Bs%2F9KaqCfRAwoDIwMxbrlyyVy9x6ZDKnvfae09h%2Fzg38THB%2B%2FvaO%2BqCb7fDXq%2F%2BRzM2c4SN6TJM, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 浙江卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Date: None, Delay: 3353 ms, Speed: 0.93 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Date: None, Delay: 1522 ms, Speed: 0.48 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8, IPv_Type: ipv4, Date: None, Delay: 2776 ms, Speed: 0.86 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv4, Date: None, Delay: 1481 ms, Speed: 0.53 M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 湖南卫视, URL: http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225610/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1144,8 +1145,8 @@ Name: 广西卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.
 Name: 广西卫视, URL: http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广西卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QPdo%2FUL80msfbhDYvoWpNl3Ui3SDbjEyrngRN3z0PFPHWA%2BXaedl3%2F3flCrB%2Fqh7fg, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广西卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8, IPv_Type: ipv4, Date: None, Delay: 900 ms, Speed: 2.79 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, IPv_Type: ipv4, Date: None, Delay: 1046 ms, Speed: 1.83 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8, IPv_Type: ipv4, Date: None, Delay: 857 ms, Speed: 2.23 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, IPv_Type: ipv4, Date: None, Delay: 936 ms, Speed: 2.20 M/s, Resolution: 1920x1080
 Name: 贵州卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 贵州卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226521/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 贵州卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226908/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1318,8 +1319,8 @@ Name: 河南卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/Umai
 Name: 河南卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河南卫视, URL: http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河南卫视, URL: http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, IPv_Type: ipv4, Date: None, Delay: 46 ms, Speed: 15.28 M/s, Resolution: 1920x1080
-Name: 河南卫视, URL: http://42.225.117.174:11199/tsfile/live/0139_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0, IPv_Type: ipv4, Date: None, Delay: 10561 ms, Speed: 0.20 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://1.94.31.214/php/hntv.php?id=hnws, IPv_Type: ipv4, Date: None, Delay: 69 ms, Speed: 9.51 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://42.225.117.174:11199/tsfile/live/0139_1.m3u8?key=txiptv&amp;amp;playlive=1&amp;amp;authid=0, IPv_Type: ipv4, Date: None, Delay: 10772 ms, Speed: 0.33 M/s, Resolution: 1920x1080
 Name: 吉林卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 吉林卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 吉林卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226886/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1466,7 +1467,7 @@ Name: 江西卫视, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000
 Name: 江西卫视, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3468921BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXW3f2sUwP9Bgt6tJshUHYl6RFrn%2FfItZOLbXLG9CvVKOn3P%2BbRKDON3XQg2p1czePDS4wR7j8ZW2%2BKTcTUdq9I, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 江西卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 江西卫视, URL: http://183.215.134.239:19901/tsfile/live/0138_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 9094 ms, Speed: 0.41 M/s, Resolution: 1920x1080
+Name: 江西卫视, URL: http://183.215.134.239:19901/tsfile/live/0138_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 8510 ms, Speed: 0.46 M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 辽宁卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1637,7 +1638,6 @@ Name: 陕西卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobi
 Name: 陕西卫视, URL: http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 陕西卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225729/2/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 陕西卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 陕西卫视, URL: http://219.146.95.58:59902/tsfile/live/0136_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10926 ms, Speed: 0.01 M/s, Resolution: None
 Name: 四川卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 四川卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 四川卫视, URL: http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1721,7 +1721,6 @@ Name: 三沙卫视, URL: http://[2409:8087:5e00:24::1e]:6060/000000001000/460000
 Name: 三沙卫视, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 三沙卫视, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 三沙卫视, URL: http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 三沙卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1025_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10684 ms, Speed: 0.09 M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1774,7 +1773,7 @@ Name: 天津卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000
 Name: 天津卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225698/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 天津卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 天津卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10063 ms, Speed: 0.17 M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10932 ms, Speed: 0.22 M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 西藏卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226930/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1808,6 +1807,7 @@ Name: 新疆卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000
 Name: 新疆卫视, URL: http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 新疆卫视, URL: http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000316/index.m3u8?fmmv6, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 新疆卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 新疆卫视, URL: http://219.146.95.58:59902/tsfile/live/0110_1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10340 ms, Speed: 0.04 M/s, Resolution: 720x576
 Name: 云南卫视, URL: http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 云南卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 云南卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226928/1.m3u8?, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1833,7 +1833,7 @@ Name: 云南卫视, URL: http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888
 Name: 云南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225591/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 云南卫视, URL: http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw935748466_239885853/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1674381051&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 云南卫视, URL: http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 云南卫视, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Date: None, Delay: 2647 ms, Speed: 0.46 M/s, Resolution: 1920x1080
+Name: 云南卫视, URL: https://hwapi.yntv.net/ew265l/z1z6s5.m3u8, IPv_Type: ipv4, Date: None, Delay: 1571 ms, Speed: 0.62 M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: CHC家庭影院, URL: https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -1855,13 +1855,13 @@ Name: 黑莓电影, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/8888888
 Name: 黑莓电影, URL: http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225769/2/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 黑莓电影, URL: http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8, IPv_Type: ipv6, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 靖天映画, URL: https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 23 ms, Speed: 13.54 M/s, Resolution: 1920x1080
-Name: 靖天戏剧, URL: https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 25 ms, Speed: 12.25 M/s, Resolution: 1920x1080
-Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 24 ms, Speed: 12.70 M/s, Resolution: 1920x1080
-Name: 天映经典, URL: https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 22 ms, Speed: 13.81 M/s, Resolution: 1920x1080
-Name: 星空卫视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 24 ms, Speed: 13.11 M/s, Resolution: 1920x1080
-Name: 东森电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 21 ms, Speed: 14.79 M/s, Resolution: 1920x1080
-Name: 东森洋片, URL: https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 23 ms, Speed: 13.50 M/s, Resolution: 1920x1080
-Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331, IPv_Type: ipv4, Date: None, Delay: 22 ms, Speed: 14.34 M/s, Resolution: 1920x1080
-Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 22 ms, Speed: 14.35 M/s, Resolution: 1920x1080
-Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 23 ms, Speed: 13.25 M/s, Resolution: 1920x1080
+Name: 靖天映画, URL: https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 40 ms, Speed: 7.64 M/s, Resolution: 1920x1080
+Name: 靖天戏剧, URL: https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 36 ms, Speed: 8.59 M/s, Resolution: 1920x1080
+Name: 经典电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 40 ms, Speed: 7.62 M/s, Resolution: 1920x1080
+Name: 天映经典, URL: https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 41 ms, Speed: 7.56 M/s, Resolution: 1920x1080
+Name: 星空卫视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 39 ms, Speed: 7.86 M/s, Resolution: 1920x1080
+Name: 东森电影, URL: https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 40 ms, Speed: 7.61 M/s, Resolution: 1920x1080
+Name: 东森洋片, URL: https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 46 ms, Speed: 6.73 M/s, Resolution: 1920x1080
+Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 15 ms, Speed: 20.32 M/s, Resolution: 1920x1080
+Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40, IPv_Type: ipv4, Date: None, Delay: 40 ms, Speed: 7.62 M/s, Resolution: 1920x1080
+Name: 东森超视, URL: https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331, IPv_Type: ipv4, Date: None, Delay: 36 ms, Speed: 8.57 M/s, Resolution: 1920x1080
