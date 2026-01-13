@@ -1,17 +1,13 @@
 🕘️更新时间,#genre#
-2026-01-12 07:20:59,http://27.41.245.32:801/hls/2/index.m3u8
+2026-01-14 07:21:16,http://1.31.14.70:54321/hls/4/index.m3u8
 
 📺央视频道,#genre#
-CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
 CCTV-2,http://1.31.14.70:54321/hls/4/index.m3u8
+CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-4,http://sh.lnott.top:880/dx04.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5,http://27.41.245.32:801/hls/5/index.m3u8
-CCTV-5+,https://60.191.56.186:8888/hls/15/index.m3u8
 CCTV-6,http://27.41.245.32:801/hls/6/index.m3u8
-CCTV-6,http://sh.lnott.top:880/dx06.m3u8
 CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8
 CCTV-7,http://1.31.14.70:54321/hls/9/index.m3u8
 CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
@@ -24,7 +20,6 @@ CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-13,http://1.31.14.70:54321/hls/19/index.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,https://60.191.56.186:8888/hls/13/index.m3u8
 CCTV-13,http://sh.lnott.top:880/dx13.m3u8
 CCTV-14,http://27.41.245.32:801/hls/14/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -49,10 +44,10 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东方卫视,http://1.31.14.70:54321/hls/27/index.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,http://23.237.228.134/live6/guizhou.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
@@ -74,6 +69,7 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 青海卫视,http://23.237.228.134/live8/shandong.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 山西卫视,http://23.237.228.134/live8/shanxi.m3u8
+山西卫视,http://23.237.228.134/live8/shanxiws.m3u8
 陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
